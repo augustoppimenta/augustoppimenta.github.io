@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Augusto Pimenta</title>
+    <description>Designer interessado no desenvolvimento de produtos e serviços digitais</description>
+    <link>http://augustoppimenta.github.io/</link>
+    <atom:link href="http://augustoppimenta.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
